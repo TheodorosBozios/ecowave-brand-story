@@ -1,4 +1,4 @@
-# EcoWave — Brand Story
+# EcoWave  Brand Story
 
 Brand story and **brand platform** for EcoWave, a sustainable smartwatch with solar charging: positioning, audience, values, promise and tagline.
 
@@ -27,10 +27,10 @@ It is a sustainable smartwatch built with recycled and carefully selected materi
 | **Tagline** | **EcoWave — Power Your Time. Respect Your Planet.** |
 
 ### Values
-- **Innovation** — smarter, more sustainable solutions  
-- **Sustainability** — recycled materials and solar energy  
-- **Lifestyle** — fits everyday modern living  
-- **Responsibility** — every purchase can have a more positive impact  
+- **Innovation**  smarter, more sustainable solutions  
+- **Sustainability**  recycled materials and solar energy  
+- **Lifestyle**  fits everyday modern living  
+- **Responsibility**  every purchase can have a more positive impact  
 
 ## What’s in the document
 
@@ -50,7 +50,6 @@ It is a sustainable smartwatch built with recycled and carefully selected materi
 - Audience definition  
 - Clear, client-ready marketing writing  
 
-## Portfolio description (for CV)
 
 **EcoWave Brand Story | Brand & Marketing**  
 Wrote a brand story and brand platform for a sustainable solar-charged smartwatch: positioning, target audience, values, brand promise and tagline, in a concise portfolio-ready format.
